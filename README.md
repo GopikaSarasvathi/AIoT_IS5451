@@ -119,4 +119,3 @@ The system consists of the following components:
 
 ---
 
-This README should now accurately reflect the methods for **waste classification via computer vision** and **fall detection via machine learning**. Let me know if further changes are needed!
