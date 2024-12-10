@@ -5,8 +5,11 @@ Group 07
 
 Members:
 Gopika Sarasvathi Kothandaraman, A0274980R, e1124726@u.nus.edu, 80760509 (Group Leader) 
+
 Li Wei Ting, A0274987A, e1124733@u.nus.edu, 81165083
+
 Sylviya Alexander, A0276584M, e1132317@u.nus.edu, 88950115
+
 Yusril Izza, A0264323L, e1023875@u.nus.edu, 83143782
 
 Running instructions:
