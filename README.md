@@ -4,6 +4,7 @@ This project demonstrates the potential of AIoT to transform traditional waste m
 Group 07
 
 Members:
+
 Gopika Sarasvathi Kothandaraman, A0274980R, e1124726@u.nus.edu (Group Leader) 
 
 Li Wei Ting, A0274987A, e1124733@u.nus.edu
